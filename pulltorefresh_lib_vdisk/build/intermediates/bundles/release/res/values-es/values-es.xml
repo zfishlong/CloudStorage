@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/ANDROID_PROJECT/CloudStorage1/pulltorefresh_lib_vdisk/src/main/res/values-es/pull_refresh_strings.xml -->
+    <eat-comment/>
+    <string name="pull_to_refresh_pull_label">Tire para actualizar…</string>
+    <string name="pull_to_refresh_refreshing_label">Cargando…</string>
+    <string name="pull_to_refresh_release_label">Deslice para actualizar…</string>
+    <string name="pull_to_refresh_tap_label">Pulse para refrescar…</string>
+</resources>

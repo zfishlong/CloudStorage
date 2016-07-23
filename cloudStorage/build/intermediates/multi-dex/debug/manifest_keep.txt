@@ -1,0 +1,16 @@
+-keep class null {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.itcast.cloudstorage.OAuthActivity { <init>(); }
+-keep class com.itcast.cloudstorage.MainActivity { <init>(); }
+-keep class com.itcast.cloudstorage.upload.UploadTabActivity { <init>(); }
+-keep class com.itcast.cloudstorage.download.DownloadTabActivity { <init>(); }
+-keep class com.itcast.cloudstorage.upload.UploadFileExploerActivity { <init>(); }
+-keep class com.itcast.cloudstorage.CloudDirActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\libs\umeng_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="951bead45677ae72cc8611eb93b5eb286f8e986e">
+        <dex dex="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\pre-dexed\debug\umeng_sdk-df694d93f918902ae330a39136078ed943475446.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\exploded-aar\CloudStorage1\pulltorefresh_lib_vdisk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2dd790a7b19ecf83f8027928bd17a5012a0d698c">
+        <dex dex="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\pre-dexed\debug\classes-93eda0b5f9222535a364b85cfcecab8f8a1ca540.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\exploded-aar\CloudStorage1\vDiskSdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cee7b3c75b4ae8d8734d00e58e56361c1d435805">
+        <dex dex="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\pre-dexed\debug\classes-01228aa4bcbd12ba46b2f99278ee24b35c95f55d.jar" />
+    </item>
+    <item
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\pre-dexed\debug\support-v4-18.0.0-099cbd6d114024195b193012e6d1c6258ad44672.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\exploded-aar\CloudStorage1\actionbarsherlock\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\pre-dexed\debug\android-support-v4-663bfca80b47b506c5523960b7e765fe73f7eaf0.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\exploded-aar\CloudStorage1\vDiskSdk\unspecified\jars\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\pre-dexed\debug\json_simple-1.1-58a3c578e2282a97ebf8d5e43f5698caf02fb74f.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\exploded-aar\CloudStorage1\actionbarsherlock\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c29e5da683fe30d1b0093cdf1459b0dffe23ad4c">
+        <dex dex="F:\ANDROID_PROJECT\CloudStorage1\cloudStorage\build\intermediates\pre-dexed\debug\classes-edbcc3303cbf79b79552ce60b995ddf75bb69efe.jar" />
+    </item>
+
+</items>
